@@ -22,20 +22,20 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			
 	<!--TOADS-->
 			<scenes scene="toad1"> 
-				<p i="1">Никто не видит\n в этом. Они настолько вкусно...</p>
-				<p i="2">Mwa! Mm! O,\nэто вкус еще лучше!</p>
-				<p i="3">O!! У него есть свои\nего крем все в моих волосах! Но эти шары вкус слишком хорошо...</p>
+				<p i="1">Никто не видит\n это. Они ТАКИЕ вкусные, МММ...</p>
+				<p i="2">ВАу! Ммм! О, да\nсейчас этот вкус, ещё лучше!</p>
+				<p i="3">O нет! Он обкончал\nвсе мои волосы! Но на вкус эти шарики слишком хороши...</p>
 			</scenes>
 			<scenes scene="toad2">
-				<p i="1">He\'s looking\nat me...so tender...</p>
-				<p i="1a">Are you...\ngoing to do this with me?</p>
-				<p i="2">I want to\ntouch him...</p>
-				<p i="2a">Here I go,\nmy little thing...</p>
-				<p i="2b">Hey, there is\nsomething I need to check...♥</p>
-				<p i="3">It\'s not a dirty\nthing, he has a mushroom, it\'s edible. ♥</p>
-				<p i="3a">Toadette doesnt\nlike me doing this...</p>
-				<p i="3b">I can do that\nwhenever I want...</p>
-				<p i="4">I feel so full,\nits a tender banana.</p>
+				<p i="1">Он смотрит\nна меня так...нежно...</p>
+				<p i="1a">Ты...\nсобираешься делать это со мной?</p>
+				<p i="2">Я хочу\nприкоснуться к нему...</p>
+				<p i="2a">Вот я иду,\nмоя маленькая штучка...</p>
+				<p i="2b">Ого, что это\nя должна проверитьsomething I need to check...♥</p>
+				<p i="3">Это не грязная\nвещь, у него есть гриб, он съедобен. ♥</p>
+				<p i="3a">Toadette не нравиться\nкак я это делаю...</p>
+				<p i="3b">Я могу сделать это\nкогда захочу...</p>
+				<p i="4">Я чувствую себя заполненой,\nэтим нежным бананом.</p>
 				<p i="4a">I imagine a queue\nfull of my dear naked toads, all serving me! ♥</p>
 				<p i="4b">I feel safe\nwith this thing in my mouth.</p>
 				<p i="4c">My mouth goes\nin and out in a way I cant stop! ♥</p>
@@ -1352,20 +1352,20 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 
 	<!--TOADSWORTH (The chancellor, the toad who protects Peach in PAPER MARIO 2 and other games)-->
 			<scenes scene="toadsworth">
-				<f i="1">Toadsworth: Hello, my dear Princess! Care to listen to something I have to teach?</f>
-				<p i="2">(Press a Number)\n1) Yes, sure, my mentor!</p>
-				<p i="3">Sorry, no, Toadsworth..</p>
-				<f i="4">Toadsworth: Do you know what you have to do when you find someone who is lying still looking like he is dead and you want to revive them?</f>
-				<p i="5">Yes. You have to press down on their heart area, correct?</p>
-				<f i="6">Toadsworth: Almost, Princess. You see, you have to stimulate their erogenous zones. For the women that is their breasts and pussy, but for a man you have to suck their penis. Do you understand, dear?</f>
-				<p i="7">Erhm...I do. I\'ll make sure to do it next time I see someone like that. Thank you for the advice, Toadsworth. See you later!</p>
-				<f i="8">Toadsworth: Hello, my dear Princess! what can I do for you, my dear?</f>
-				<p i="9">(Press a Number)\n1) Any news about Mario?    2) Any idea to save my kingdom?\n3) I fell a...nasty and funny scent.....   SPACE) Go away</p>
-				<f i="10">Toadsworth: No, my Princess... the toads are still searching for him recklessly around our land.</f>
-				<f i="11">Toadsworth: Well, my dear... Since you are helping us to find Mario, you need some special lessons. I am available. Are you prepared for them?</f>
-				<p i="12">(Press a Number) \n1) What is that?   2) No, I dont want it\n3) Okay, let\'s do it!</p>
-				<f i="13">Toadsworth: Its something you must be prepared. You\'re a woman, and I must take care of you during this process.</f>
-				<f i="14">Toadsworth: Oh Princess, please! You should be really prepared for the worst. As a tutor, I\'ll give you my di.....my hands for our success!</f>
+				<f i="1">Toadsworth: Приветствую, моя дорогая принцесса! Готова внимательно выслушать то, что я хочу тебе рассказать?</f>
+				<p i="2">(Press a Number)\n1) Да, конечно, мой учитель!</p>
+				<p i="3">Простите, нет, Управляющий...</p>
+				<f i="4">Toadsworth: Знаете ли вы, что вы должны делать, когда найдете кого-то, притворяющегоя мертвым, чтобы заставить его раскрыть себя?</f>
+				<p i="5">Да. Вы должны послушать его сердце, верно?</p>
+				<f i="6">Toadsworth: Почти, Принцесса. Вы должны стимулировать их эрогенные зоны. Для женщин их грудь и киска, а для мужчины вы должны сосать их член. Ты поняла, дорогая?</f>
+				<p i="7">Кхм...хорошо. Я обязательно сделаю это в следующий раз когда увижу что-то подобное. Спасибо за совет, Управляющий. Увидимся позже!</p>
+				<f i="8">Toadsworth: Привет, моя Принцесса! что я могу сделать для вас, дорогая?</f>
+				<p i="9">(Press a Number)\n1) Какие новости о Марио?    2) Есть идеи, как сохранить мое королевство?\n3) Я упала...странный, неприятный запах.....   SPACE) Уйти</p>
+				<f i="10">Toadsworth: Нет, моя Принцесса... слуги все еще настойчиво ищут его на наших землях</f>
+				<f i="11">Toadsworth: Хорошо, моя дорогая... Поскольку вы помогаете нам искать Марио, вам понадобятся несколько специальных уроков. Я могу вас научить, вы к этому готовы?</f>
+				<p i="12">(Press a Number) \n1) Какие уроки?   2) Нет, они мне не нужны\n3) Отлично, начнем!</p>
+				<f i="13">Toadsworth: Кое-что, что вас подготовит. Вы женщина и я должен быть внимательным к вашему участию в этом процессе.</f>
+				<f i="14">Toadsworth: О, Принцесса, пожалуйста! Вы должны быть действительно готовы к худшему. Вот вам мой чле...моя рука, как залог нашего успеха.</f>
 				<f i="15">Toadsworth: Well, my... my di....my little thing needed some care. You know, the wanking process. You should know its healthy.</f>
 				<f i="16">Toadsworth: Hello, my dear! Can I...Can I ask something from you?</f>
 				<f i="17">Toadsworth: Please, Princess, show me your boobs a bit... I need to feel great for my duties today. Then you can go.</f>
@@ -5329,10 +5329,10 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="Nipple_SLICK">SLICK</text>
   
 	<!--PUSSY HAIR-->
-			<text name="Pussy_Normal">Normal</text>
-			<text name="Pussy_Shaved">Shaved</text>
-			<text name="Pussy_Hairy">Hairy</text>
-			<text name="Pussy_Clean">Clean</text>
+			<text name="Pussy_Normal">Норм.</text>
+			<text name="Pussy_Shaved">Бритая</text>
+			<text name="Pussy_Hairy">Волосатая</text>
+			<text name="Pussy_Clean">Чистая</text>
 
 	<!--BELLY SIZES-->
 			<text name="BellyDefault">Default</text>
